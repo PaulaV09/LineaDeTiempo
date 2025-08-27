@@ -1,5 +1,6 @@
 # Proyecto: Línea de Tiempo
 #### Paula Andrea Viviescas Jaimes 
+
 Este es un mini proyecto web que muestra una línea de tiempo personal o profesional utilizando únicamente HTML.
 
 ##  Descripción
@@ -19,3 +20,20 @@ Para ver la línea de tiempo, simplemente abre el archivo `index.html` en tu nav
 ## Inspección en el navegador 
 
 ![](https://i.ibb.co/FSY89Fb/Captura-de-pantalla-2025-08-26-163308.png)
+
+## ¿Cómo ver el proyecto?
+
+1.  Clona o descarga este repositorio.
+2.  Abre el archivo `index.html` en cualquier navegador web moderno (como Google Chrome, Firefox, o Microsoft Edge).
+
+No se requiere ninguna instalación ni servidor.
+
+## Estructura del Proyecto
+
+El proyecto consta de:
+
+```
+.
+└── index.html
+└── README.md
+```
